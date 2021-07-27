@@ -1,1 +1,1 @@
-## Experiment name
+## Modeling synaptic network connectivity
