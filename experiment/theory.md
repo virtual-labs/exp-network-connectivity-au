@@ -6,6 +6,8 @@ Neurons are the basic building blocks of central nervous system specialized to t
 &nbsp;
 
 **Synapses**
+&nbsp;
+
 Synapse, also called neuronal junction, the site of transmission of electric nerve impulses between two nerve cells (neurons) or between a neuron and a gland or muscle cell (effector). A synaptic connection between a neuron and a muscle cell is called a neuromuscular junction. A neuronal synapse consists of three components (Fig.1); 
 
 1.	*Pre-synaptic terminal*: An axonal terminal forms the pre-synaptic terminal of a synapse. When a nerve impulse arrives at a presynaptic terminal, it causes synaptic vesicles to fuse with the plasma membrane such that the neurotransmitters present in the vesicle are dumped into the synaptic cleft. 
